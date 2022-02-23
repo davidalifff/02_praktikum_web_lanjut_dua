@@ -12,8 +12,8 @@ class HomeController extends Controller
     }
 
     public function about(){
-        echo "NIM   : 2041720068 <br> ";
-        echo "Nama  : Faiz Arindra Maulana <br>";
+        echo "NIM   : 20417200246 <br> ";
+        echo "Nama  : Mochamad Nur Alif <br>";
         echo "Kelas : TI 2D <br>";
     }
 
